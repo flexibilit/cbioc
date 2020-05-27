@@ -1,0 +1,63 @@
+a complex|includes|GENE_c_Ab#GENE_Rad51#||
+
+
+GENE_ATM|is present||in a complex#|
+
+
+GENE_ATM|phosphorylates|GENE_c_Ablon_Ser465#||
+
+
+GENE_ATM|thereby activates|the GENE_kinase#||
+
+
+Phosphorylation by GENE_ATM|activates|GENE_c_Ab#||
+
+
+GENE_c_Abltyrosine_kinase activity|is stimulated||in response to ionizing radiation IR , 1_b_d_arabinofuransylcytosine , camptothecin or etoposide#|
+
+
+GENE_c_Ab|binds||to GENE_p53#in response to 1_b_d_arabinofuransylcytosine or methylmethanesulfonate#|
+
+
+this interaction|does not require|GENE_c_Ablkinase activity#||
+
+
+moreover, GENE_c_Ablkinase activity|does not require|GENE_p53#||
+
+
+binding of RNA at GENE_c_Ab|inhibits|the GENE_Mdm2_mediated degradation of GENE_p53#||
+
+
+GENE_c_Ab|phosphorylates|tyrosines in theC_terminal domain CTD of GENE_RNA_polymerase_II GENE_RPase_II ; Km 0#||
+
+
+5|mM|||
+
+
+the GENE_c_AblSH2_domain|is|a specificity determinant#|for this reaction#|
+
+
+the GENE_c_AblC_terminalregion|can bind|the GENE_Crk_SH3_domain#||
+
+
+this interaction|may link|GENE_c_Ab#|to the state of#the cell surface#with respect#|
+
+
+GENE_c_Ab|binds|||
+
+
+tyrosine|phosphorylates|GENE_paxillin#|in anadhesion_dependent#|
+
+
+GENE_c_Abltyrosine_kinase activity|is blocked||by GENE_pRb#|
+
+
+GENE_pRb |binds||to the GENE_c_Ablkinase_domain#|
+
+
+Phosphorylation of GENE_pRb|disrupts|the GENE_c_Abl#||
+
+
+pRb_complex|releases|active GENE_c_Ab#||
+
+
